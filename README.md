@@ -1,11 +1,11 @@
 ### 👋 Hi, I’m @ChavaKethan
 
-- 👀 I’m interested in **IoT, Embedded Systems, and Web Development**
+- 👀 I’m interested in **IoT, Embedded Systems,Web Development and Data Analytics**
 - 🌱 I’m currently learning **Cloud Integration (AWS IoT), Advanced Sensor Technologies, and Full-Stack Development**
 - 💞️ I’m looking to collaborate on **innovative projects involving real-time systems, IoT, and responsive web applications**
 - 📫 How to reach me:  
   - ✉️ chavakethan007@gmail.com  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/chava-kethan-563025217/)
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/chavakethan)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once built an aircraft pollution monitoring system using Proteus simulation and Arduino without ever leaving my room!
 
